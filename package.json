@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "nanoid": "^4.0.1",
+    "yargs": "^17.6.2"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "name": "cli-annex",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khryyystyna/CLI-annex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khryyystyna/CLI-annex/issues"
+  },
+  "homepage": "https://github.com/Khryyystyna/CLI-annex#readme"
+}
